@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline-block;
+  margin-top: 13%;
+  margin-right: 10%;
+}
+li a {
+  text-decoration: none;
+  color: white;
+}
+
+#top {
+  background-color: #ffdbaa;
+  height: 100vh;
+  width: 100vw;
+}
+.container {
+  height: 100vh;
+}
+.header {
+  height: 30vh;
+  /* background-color: red;*/
+  margin: 0;
+}
+.header-middle {
+  position: relative;
+  top: 10%;
+  /*background-color: blue;*/
+  height: 80%;
+  width: 70%;
+  margin: 0 auto;
+}
+.header-icon {
+  position: relative;
+  top: 20%;
+  left: 10%;
+  /*background-color: white;*/
+  height: 50%;
+  width: 30%;
+}
+.header-nav {
+  /*background-color: green;*/
+  position: relative;
+  bottom: 30%;
+  left: 60%;
+  height: 50%;
+  width: 30%;
+  padding: 0 5%; /* Adjust the padding percentage as per your requirement */
+}
+
+.header-icon-img {
+  /*background-color: pink;*/
+  height: 100%;
+  width: 40%;
+}
+.icon-img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+.nav-top {
+  width: 80%;
+}
