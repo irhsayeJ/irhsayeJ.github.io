@@ -11,6 +11,7 @@ li {
   display: inline-block;
   margin-top: 13%;
   margin-right: 10%;
+  width: auto;
 }
 li a {
   text-decoration: none;
@@ -68,11 +69,4 @@ li a {
 }
 .nav-top {
   width: 80%;
-}
-@media only screen and (max-width: 48px) {
-  li {
-    display: block;
-    margin-top: 5%; /* You can adjust the margin as per your requirement */
-    margin-right: 0;
-  }
 }
