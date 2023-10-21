@@ -69,7 +69,7 @@ li a {
 .nav-top {
   width: 80%;
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 48px) {
   li {
     display: block;
     margin-top: 5%; /* You can adjust the margin as per your requirement */
